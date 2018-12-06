@@ -1,1 +1,1 @@
-import 'vega-lite'
+import 'vega-embed'

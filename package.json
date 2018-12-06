@@ -1,0 +1,11 @@
+{
+  "name": "ve-test",
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "vega-lite": "^3.0.0-rc10"
+  }
+}
